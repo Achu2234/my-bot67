@@ -24,6 +24,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/animekaizoku/saitamarobot?include_prereleases?style=flat&logo=github" /> </a>
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/mari)
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/animekaizoku/saitamarobot" /> </a>
